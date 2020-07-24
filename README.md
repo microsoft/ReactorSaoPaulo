@@ -1,39 +1,34 @@
-# Microsoft Reactor Workshops
+# Workshops do Microsoft Reactor
 
-**Update:** Due to the concerns surrounding the COVID-19 outbreak, we have temporarily suspended programming and events in all Reactor locations as the health and safety of our community and employees is our top priority. We are now offering online learning opportunities for our current content. For more information about online events refer to:
-- [Reactor São Paulo website](https://developer.microsoft.com/en-us/reactor/Location/S%C3%A3oPaulo)
-- [Reactor São Paulo Meetup page](https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/)
-- [Reactor Twitter](https://twitter.com/msftreactor)
+**Atualização:** Devido às preocupações em torno do surto de COVID-19, suspendemos temporariamente a programação e os eventos em todos os espaços do Reator, pois a saúde e a segurança de nossa comunidade e funcionários são nossa principal prioridade. Agora, estamos oferecendo oportunidades de aprendizado on-line para nosso conteúdo atual. Para mais informações sobre eventos online, consulte:
+- [Site do Reactor São Paulo](https://developer.microsoft.com/en-us/reactor/Location/S%C3%A3oPaulo)
+- [Página do Meetup do Reactor São Paulo](https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/)
+- [Twitter do Reactor](https://twitter.com/msftreactor)
 
-Welcome to Microsoft's Reactor São Paulo Workshop Content Repository!
 
-In this repo you will find various resources for workshops that Microsoft runs at the Reactor.
+Boas vindas ao Repositório de Conteúdos dos Wokshops do Microsoft Reactor São Paulo!
 
-## Content offering
+Neste repositório, você encontrará vários recursos para os workshops que a Microsoft realiza no Reactor.
 
-We currently have several workshops that we run at each of our Reactor locations around the world. 
-- Introduction to Python for Data Science (DS1)
-- Beginners Data Science for Python Developers (DS2)
-- Making Your Data Useful for Analysis (ML1)
-- Using Advanced Machine Learning Models (ML2)
-- Building Software That Recognizes You (AI1)
-- Getting started with HTML & CSS – Page layout and design (Web1)
-- Getting Started with JavaScript – Making Pages Dynamic (Web2)
-- Building smart contracts with Blockchain (Blockchain1)  
+## Oferta de conteúdo
 
-These courses and more are offered on a regular basis at the [São Paulo Reactor](https://developer.microsoft.com/en-us/reactor/Location/S%C3%A3oPaulo). 
+Atualmente, temos várias oficinas que realizamos em cada um de nossos Reactors locais espalhados em todo o mundo.
+- Introdução a Python para Ciência de Dados (DS1)
+- Ciência de Dados para iniciantes para Python Developers (DS2)
+- Tornando Os Seus Dados Úteis para Análise (ML1)
+- Usando Modelos Avançados de Aprendizado de Máquina (ML2)
+- Construindo Software Que Reconhece Você (AI1)
+- Introdução Ao HTML e CSS - Layout e design de Página (Web1)
+- Introdução Ao JavaScript - Criando Páginas Dinâmica (Web2)
+- Construíndo Contratos Inteligentes (Blockchain1)
 
-## Contributing
- If you find any errors or have ideas for improvements, we welcome you to contribute to this repo by opening a PR.
+Esses cursos e outras atividades são oferecidas regularmente no [Reactor São Paulo](https://developer.microsoft.com/pt-br/reactor/Location/S%C3%A3oPaulo)
+ 
+## Contribuições
+Se você encontrar algum erro ou tiver ideias para melhorias, convidamos você a contribuir com este repositório abrindo um PR.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Este projeto recebe contruibuições e sugestões. A maioria das contribuições exige que você concorde com um Contrato de Licença de Colaborador (CLA) declarando que você tem o direito de, e realmente concede, o direito de usar sua contribuição. Para detalhes, visite: https://cla.opensource.microsoft.com.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+Quando você envia uma solicitação de uma PR, um CLA bot determina automaticamente se você precisa fornecer um CLA e preenche seu PR adequadamente (por exemplo, verifica os status, comentários). Basta seguir as instruções fornecidas pelo bot. Você precisará fazer isso uma vez em todos os repositórios usando nosso CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+Este projeto adotou o [Código de Conduta de Código Aberto da Microsoft](https://opensource.microsoft.com/codeofconduct/). Para mais informações, consulte o [FAQ do Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou entre em contato no [opencode@microsoft.com](mailto:opencode@microsoft.com) com qualquer pergunta ou comentários.
