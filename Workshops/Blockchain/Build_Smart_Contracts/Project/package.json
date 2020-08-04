@@ -1,0 +1,17 @@
+{
+  "name": "blockopoly",
+  "version": "1.1.0",
+  "description": "Blockopoly project",
+  "keywords": [
+    "blockchain",
+    "smart contracts",
+    "ethereum",
+    "truffle",
+    "truffle box"
+  ],
+  "author": "Microsoft",
+  "contributors": [
+    "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)"
+  ],
+  "license": "MIT"
+}
