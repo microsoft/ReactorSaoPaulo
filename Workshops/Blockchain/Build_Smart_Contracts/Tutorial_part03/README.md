@@ -1,6 +1,6 @@
 # Blockopoly - parte 3
 
-Por: [Solange Gueiros](https://solange.dev/)
+Por: [Solange Gueiros](https://www.linkedin.com/in/solangegueiros/)
 
 Na [parte 1](../Tutorial_part01/README.md) apresentamos a arquitetura do jogo e criamos o primeiro smart contract: `Bank`, que controla o dinheiro: saldos de cada um, emissão e transferências entre contas.
 
@@ -794,4 +794,6 @@ Na [parte 2](../Tutorial_part02/README.md) foi ensinado como criar o smart contr
 
 Nesta terceira e última parte do tutorial criamos o "coração" do projeto que é o smart contract `Blockopoly`, onde são definidos jogadores, propriedades negociadas, início, final do jogo e ganhador. Além disto, demonstramos o funcionamento de uma partida.
 
-O projeto `Blockopoly` é uma iniciativa da Microsoft: [Reactor](https://developer.microsoft.com/en-us/reactor/) e o código original encontra-se no [Github Reactors](https://github.com/microsoft/Reactors), sob [licença MIT](https://github.com/microsoft/Reactors/blob/main/LICENSE). 
+O projeto `Blockopoly` é uma iniciativa da [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) e o código original encontra-se no [github Reactors](https://github.com/microsoft/Reactors), sob [licença MIT](https://github.com/microsoft/Reactors/blob/main/LICENSE). 
+
+Os Reactors são espaços espalhados pelo mundo onde os profissionais experimentam tecnologias líderes da indústria na Microsoft, parceiros e comunidades de código aberto, enquanto se encontram, aprendem e criam conexões.

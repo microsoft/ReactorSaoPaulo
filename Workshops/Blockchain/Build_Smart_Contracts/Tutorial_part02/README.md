@@ -1,6 +1,6 @@
 # Blockopoly - parte 2
 
-Por: [Solange Gueiros](https://solange.dev/)
+Por: [Solange Gueiros](https://www.linkedin.com/in/solangegueiros/)
 
 Nosso jogo é composto por 3 smart contracts: 
 - Bank

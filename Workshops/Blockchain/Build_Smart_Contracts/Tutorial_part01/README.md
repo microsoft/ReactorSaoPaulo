@@ -1,40 +1,16 @@
 # Blockopoly - parte 1
 
-Por: [Solange Gueiros](https://solange.dev/)
+Por: [Solange Gueiros](https://www.linkedin.com/in/solangegueiros/)
 
 Este é uma divertida variação de um famoso jogo de tabuleiro em que propriedades como bairros, casas, hotéis ou empresas são compradas e vendidas, em que uns jogadores ficam "ricos" e outros vão à falência. No Brasil é conhecido como 'Banco imobiliário', ou 'Monopoly' no mundo. A ideia principal do jogo mapeia muito bem os sistemas Blockchain e vamos construir partes do jogo para demonstrar isto.
 
-O jogo `Blockopoly` foi inspirado em [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/). Nossas propriedades são os espaços `Reactors` espalhados pelo mundo:
+As propriedades do jogo `Blockopoly` são os espaços `Reactors` espalhados pelo mundo:
  
 ![reactors map](./images/image-01.png)
 
-Nestes espaços é possível experimentar tecnologias líderes da indústria na Microsoft, parceiros e comunidades de código aberto, enquanto os profissionais da área se encontram, aprendem e criam conexões.
+Nestes espaços profissionais da área se encontram, aprendem e se conectam - tanto aos colegas locais quanto às idéias e tecnologias líderes da indústria na Microsoft, parceiros e comunidades de código aberto.
 
-O tutorial está dividido em 3 partes.
-
-# Overview do tutorial
-
-Aqui está um resumo das etapas que faremos neste tutorial (nas 3 partes):
-
-1. Pré requisitos;
-2. Arquitetura do jogo;
-3. Para cada smart contract, vamos:
-    1. Criar o arquivo Solidity;
-    2. Compilar;
-    3. Publicar;
-    4. Interagir com ele.
-4. Vamos jogar!
-    1. Publicação do jogo;
-    2. Entrada dos jogadores;
-    3. Início do jogo;
-    4. Saldos dos jogadores;
-    5. Propriedades disponíveis;
-    6.  Comprando uma propriedade;
-    7.  Término do jogo;
-    8.  Ganhador.
-5. Próximos passos - upgrades;
-6. Publicando em Blockchain;
-7. Considerações finais.
+Nesta parte apresentaremos a arquitetura do jogo e criamos o primeiro smart contract: `Bank`, que controla o dinheiro, os saldos de cada um, a emissão e as transferências entre contas. 
 
 # Pré-requisitos
 
