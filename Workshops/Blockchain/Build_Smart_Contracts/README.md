@@ -34,3 +34,6 @@ O tutorial está dividido em 3 partes:
 - [Blockopoly - parte 2](./Tutorial_part02/README.md)
 - [Blockopoly - parte 3](./Tutorial_part03/README.md)
 
+## Video
+
+Assista o [vídeo](https://www.youtube.com/watch?v=2b-QSlvWCk8) deste workshop já realizado em 05/ago/2020.
